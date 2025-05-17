@@ -33,5 +33,5 @@ flutter:
       android:
         package: com.shadyboshra2012.flutter_checkout_payment
         pluginClass: FlutterCheckoutPaymentPlugin
-      ios:
-        pluginClass: FlutterCheckoutPaymentPlugin
+      # ios:
+      #   pluginClass: FlutterCheckoutPaymentPlugin
